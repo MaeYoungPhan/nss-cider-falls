@@ -87,7 +87,7 @@
 }
 
 .aside {
-  height: 50%; /*Full-height: remove this if you want "auto" height */
+  height: 80%; /*Full-height: remove this if you want "auto" height */
   width: 160px; /* Set the width of the sidebar */
   position: absolute; /* Fixed Sidebar (stay in place on scroll) */
   z-index: 1; /* Stay on top */
@@ -96,7 +96,7 @@
   background-color: #e9edc9; 
   color: #333333;
   overflow-x: hidden; /* Disable horizontal scroll */
-  margin-top: 550px;
+  margin-top: 575px;
   margin-right: 30px;
 }
 
